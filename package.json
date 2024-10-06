@@ -1,0 +1,14 @@
+{
+  "name": "test-jenkins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sivuch-p-work/test-jenkins.git",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
